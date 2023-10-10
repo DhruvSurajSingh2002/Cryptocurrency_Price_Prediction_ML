@@ -1,4 +1,3 @@
-
 # Cryptocurrency Price Prediction, Machine Learning and Python.
 # Project Overview
 
