@@ -26,7 +26,7 @@ File overview:
 In this project,the following are used to build the model:
 
 * JupyerLab
-* Python 3.8+
+* Python 
 * Python packages
     * pandas
     * yfinance
