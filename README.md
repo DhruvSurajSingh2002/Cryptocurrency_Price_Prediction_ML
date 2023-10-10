@@ -27,7 +27,7 @@ File overview:
 
 In this project,the following are used to build the model:
 
-* JupyerLab
+* Jupyter
 * Python 
 * Python packages
     * pandas
