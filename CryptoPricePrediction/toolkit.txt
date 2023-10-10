@@ -1,0 +1,10 @@
+Toolkit used for the cryptocurreny price prediction in the project-
+
+
+pandas
+scikit-learn
+xgboost
+mwclient
+yfinance
+matplotlib
+transformers
