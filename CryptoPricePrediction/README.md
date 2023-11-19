@@ -10,9 +10,6 @@ To assess the performance of these models, a backtesting system needs to be deve
 
 
 
-## Code
-
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/bitcoin_price)
 
 File overview:
 
